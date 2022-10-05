@@ -1,5 +1,3 @@
-from ast import Not
-from urllib import response
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .serializer import NoteSerializer
