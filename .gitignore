@@ -1,6 +1,4 @@
-venv
-Lib
-Scripts
-pyvenv.cfg
-db.sqlite3
-__pycache__
+venv/
+venv/Lib
+venv/Scripts
+
